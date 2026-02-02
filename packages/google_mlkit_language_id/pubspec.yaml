@@ -23,5 +23,3 @@ flutter:
       android:
         package: com.google_mlkit_language_id
         pluginClass: GoogleMlKitLanguageIdPlugin
-      ios:
-        pluginClass: GoogleMlKitLanguageIdPlugin
